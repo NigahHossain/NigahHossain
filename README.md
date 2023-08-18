@@ -83,12 +83,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nigah-bjit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
 ## Recent Blog Posts  
   
 
@@ -108,9 +102,6 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nigah-bjit&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -124,3 +115,22 @@
 [![](https://visitcount.itsvg.in/api?id=nigah-bjit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=nigah-bjit&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
