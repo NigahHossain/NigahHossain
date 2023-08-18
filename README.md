@@ -83,26 +83,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nigah-bjit&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nigah-bjit&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nigah-bjit&theme=dark&hide_border=false)<br/>
