@@ -6,7 +6,7 @@
 ### <div align="center">I'm Nigah, a full-time Software Quality Assurance Engineer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Manual projects]  
+- 🔭 I’m currently working on Manual projects.  
   
 
 - 🌱 I’m currently learning more of **Software Quality Assurance**  
